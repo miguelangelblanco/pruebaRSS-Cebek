@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Título de tu Feed</title>
+  <link>https://miguelangelblanco.github.io/mi-feed-rss/</link>
+  <description>Prueba feed RSS CEBEK</description>
+  <language>es-es</language>
+  <lastBuildDate>Tue, 20 May 2025 12:00:00 +0000</lastBuildDate>
+  
+  <!-- Aquí irán los items que actualizará tu RPA -->
+  <item>
+    <title>Título de la noticia 1</title>
+    <link>https://fuente-original.com/noticia1</link>
+    <description>Descripción o resumen de la noticia 1</description>
+    <pubDate>Tue, 20 May 2025 10:30:00 +0000</pubDate>
+    <guid>https://fuente-original.com/noticia1</guid>
+  </item>
+  
+  <!-- Puedes añadir más items como este -->
+</channel>
+</rss>
