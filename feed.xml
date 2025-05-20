@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>Mi Feed de Noticias</title>
-  <link>https://tuusuario.github.io/mi-feed-rss/</link>
+  <link>https://miguelangelblanco.github.io/mi-feed-rss/</link>
   <description>Feed RSS con noticias recopiladas por mi RPA</description>
   <language>es-es</language>
   <lastBuildDate>Tue, 20 May 2025 15:30:00 +0100</lastBuildDate>
