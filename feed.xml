@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-  <title>Título de tu Feed</title>
-  <link>https://miguelangelblanco.github.io/mi-feed-rss/</link>
-  <description>Prueba feed RSS CEBEK</description>
+  <title>Mi Feed de Noticias</title>
+  <link>https://tuusuario.github.io/mi-feed-rss/</link>
+  <description>Feed RSS con noticias recopiladas por mi RPA</description>
   <language>es-es</language>
-  <lastBuildDate>Tue, 20 May 2025 12:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 May 2025 15:30:00 +0100</lastBuildDate>
   
-  <!-- Aquí irán los items que actualizará tu RPA -->
+  <!-- Primera noticia -->
   <item>
-    <title>Título de la noticia 1</title>
-    <link>https://fuente-original.com/noticia1</link>
-    <description>Descripción o resumen de la noticia 1</description>
-    <pubDate>Tue, 20 May 2025 10:30:00 +0000</pubDate>
-    <guid>https://fuente-original.com/noticia1</guid>
+    <title>Descubren nuevo método para purificar agua usando materiales sostenibles</title>
+    <link>https://ejemplo.com/noticia-agua-sostenible</link>
+    <pubDate>Tue, 20 May 2025 14:25:00 +0100</pubDate>
+    <guid>https://ejemplo.com/noticia-agua-sostenible</guid>
+    <content:encoded><![CDATA[
+      <div>
+        <img src="https://ejemplo.com/imagenes/purificacion-agua.jpg" alt="Sistema de purificación de agua sostenible" style="max-width:100%; height:auto; margin-bottom:15px;" />
+        
+        <p>Un equipo internacional de científicos ha desarrollado un innovador método para purificar agua utilizando exclusivamente materiales biodegradables y de bajo costo. La técnica, que combina fibras de coco tratadas y nanopartículas derivadas de residuos agrícolas, ha demostrado eliminar hasta un 99,8% de contaminantes en pruebas de laboratorio, incluyendo metales pesados y microplásticos.</p>
+        
+        <p>Los investigadores aseguran que esta tecnología podría revolucionar el acceso a agua potable en regiones remotas y de bajos recursos, ya que los materiales necesarios cuestan menos de 5 euros por unidad y cada filtro puede procesar hasta 1.000 litros de agua antes de necesitar reemplazo. Los primeros prototipos serán implementados en comunidades rurales de Sudamérica el próximo mes.</p>
+      </div>
+    ]]></content:encoded>
   </item>
   
-  <!-- Puedes añadir más items como este -->
+  <!-- Segunda noticia -->
+  <item>
+    <title>Nueva especie de mariposa descubierta en los bosques andinos</title>
+    <link>https://ejemplo.com/descubrimiento-mariposa-andina</link>
+    <pubDate>Tue, 20 May 2025 12:15:00 +0100</pubDate>
+    <guid>https://ejemplo.com/descubrimiento-mariposa-andina</guid>
+    <content:encoded><![CDATA[
+      <div>
+        <img src="https://ejemplo.com/imagenes/mariposa-andina.jpg" alt="Fotografía de la nueva especie de mariposa" style="max-width:100%; height:auto; margin-bottom:15px;" />
+        
+        <p>Biólogos de la Universidad Nacional de Colombia han documentado una nueva especie de mariposa en los bosques nublados de la cordillera occidental de los Andes. Bautizada como <em>Morpho caelestis</em>, esta especie presenta un distintivo patrón de alas azul iridiscente con bordes plateados que la diferencia claramente de otras mariposas del género Morpho conocidas hasta ahora.</p>
+        
+        <p>El hallazgo, publicado en la revista científica <em>Biodiversity Journal</em>, subraya la importancia de la conservación de estos ecosistemas únicos. "Cada nueva especie que descubrimos nos recuerda cuánto queda por conocer y proteger", afirmó la Dra. Carmen Rodríguez, líder del equipo de investigación. Los científicos estiman que la población de esta mariposa podría limitarse a menos de 200 km² de bosque, lo que la convierte en una especie potencialmente vulnerable.</p>
+      </div>
+    ]]></content:encoded>
+  </item>
+  
 </channel>
 </rss>
