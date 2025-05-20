@@ -32,7 +32,7 @@
     <guid>https://ejemplo.com/descubrimiento-mariposa-andina</guid>
     <content:encoded><![CDATA[
       <div>
-        <img src="https://github.com/miguelangelblanco/pruebaRSS-Cebek/blob/main/682c3e769a075.webp" alt="Fotografía de la nueva especie de mariposa" style="max-width:100%; height:auto; margin-bottom:15px;" />
+        <img src="https://raw.githubusercontent.com/miguelangelblanco/pruebaRSS-Cebek/refs/heads/main/682c3e769a075.webp" alt="Fotografía de la nueva especie de mariposa" style="max-width:100%; height:auto; margin-bottom:15px;" />
         
         <p>Biólogos de la Universidad Nacional de Colombia han documentado una nueva especie de mariposa en los bosques nublados de la cordillera occidental de los Andes. Bautizada como <em>Morpho caelestis</em>, esta especie presenta un distintivo patrón de alas azul iridiscente con bordes plateados que la diferencia claramente de otras mariposas del género Morpho conocidas hasta ahora.</p>
         
